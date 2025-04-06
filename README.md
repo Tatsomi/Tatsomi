@@ -1,39 +1,67 @@
-<h1 align="center">Hi, I'm Tatsomi 👋</h1>
-<p align="center">Just a human with a keyboard, some ideas, and a deep love for clean code LOL.</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Tatsomi+👾;Welcome+to+the+Cyberpunk+Realm;SkyRealms+Developer;Plugin+Wizard+%F0%9F%94%A5;Bug+Hunter+%F0%9F%90%9F" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0f0f0f,100:202020&height=150&section=header&text=Tatsomi's+Cyberpunk+World&fontSize=24&fontColor=ffffff" />
+</p>
 
 ---
 
 ## 🧠 About Me
 
-- 🔧 **SkyRealms** Developer 
-- 💻 Mostly works with: 'PHP', 'HTML', 'CSS', 'JavaScript' 
-- 🚀 Recently I started exploring the world of "Kotlin" 
-- 🧩 I share projects, fix bugs and write plugins for fun 
-- 🫣 Other things I do... But some things are better left unsaid
+```yaml
+name: Tatsomi
+status: A coder stuck in the matrix... 💻
+languages: [PHP, HTML, CSS, JavaScript, Kotlin]
+tools: [VS Code, Git, Terminal, Brain.exe]
+hobbies: [Building plugins, Crushing bugs, Creating magic]
+```
+
+- 🔧 **SkyRealms** Developer
+- 🚀 Exploring the unknown realms of **Kotlin**
+- 📦 Building, breaking, and fixing, one line at a time
+- 🫣 What I do in the shadows... stays there
 
 ---
 
-## 💼 Skills & Tools
+## 🧰 Toolbox
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,html,css,js,kotlin,git,vscode&theme=dark" />
+</p>
 
 ---
 
-## 📫 Contact Me
+## 📫 Reach Me
 
-📧 Gmail: [tatsomisobara@gmail.com](mailto:tatsomisobara@gmail.com)
+<div align="center">
+  <a href="mailto:tatsomisobara@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
 ---
 
 ## 🌀 Fun Fact
 
-I don't chase bugs.  
-They fear me.
+> 🐞 **I don't chase bugs...**  
+> 💀 They run from me when they see my **commit messages**.
 
 ---
 
-⭐️ Feel free to check out my projects, leave a star, or just drop by to say hi!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tatsomi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&icon_color=ff79c6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tatsomi&theme=tokyonight&hide_border=true&background=0D1117" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Tatsomi&theme=tokyo-night&bg_color=0d1117&hide_border=true" />
+</p>
+
+---
+
+⭐ **Drop a star, fork some magic, and enjoy the chaos.**
