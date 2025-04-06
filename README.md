@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0f0f0f,100:202020&height=150&section=header&text=Tatsomi's+Cyberpunk+World&fontSize=24&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0f0f0f,100:202020&height=150&section=header&text=Tatsomi's+World&fontSize=24&fontColor=ffffff" />
 </p>
 
 ---
