@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0f0f0f,100:202020&height=150&section=header&text=Tatsomi's+World&fontSize=24&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:111111,100:1f1f1f&height=150&section=header&text=Tatsomi's+Shadow+World&fontSize=24&fontColor=ffffff&fontColor2=00FFDD" />
 </p>
 
 ---
@@ -19,9 +19,9 @@ hobbies: [Building plugins, Crushing bugs, Creating magic]
 ```
 
 - 🔧 **SkyRealms** Developer
-- 🚀 Exploring the unknown realms of **Kotlin**
-- 📦 Building, breaking, and fixing, one line at a time
-- 🫣 What I do in the shadows... stays there
+- 🚀 Exploring the **dark side** of **Kotlin**
+- 📦 Building, breaking, and fixing with **shadowy** precision
+- 🫣 What I do in the **dark**... stays hidden
 
 ---
 
