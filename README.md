@@ -59,8 +59,9 @@ hobbies: [Building plugins, Crushing bugs, Creating magic]
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Tatsomi&theme=tokyo-night&bg_color=0d1117&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tatsomi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&icon_color=ff79c6" />
 </p>
+
 
 ---
 
